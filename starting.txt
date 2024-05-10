@@ -1,0 +1,15 @@
+1 - Instalar go
+
+2 - Configurar GOROOT: aponta para a instalação do GO
+
+3 - Configurar GOPATH: aponta para o diretorio dos projetos GO
+
+4 - Iniciar um projeto: go mod init github.com/card-life
+
+5 - go.mod: libs diretas e indiretas; go.sum controle de versão das libs
+
+6 - Comandos importantes:
+   go mod tidy: atualiza o go.mod
+   go run .: executa a aplicação go
+
+7 -Go effective: https://go.dev/doc/effective_go
